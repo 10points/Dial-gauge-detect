@@ -1,0 +1,14 @@
+numpy
+pandas
+seaborn
+matplotlib
+Pillow
+torch
+torchvision
+torchaudio
+tensorflow
+notebook
+scikit-learn
+opencv-python
+roboflow
+ultralytics==8.0.134
