@@ -166,7 +166,9 @@ datasets/train
 datasets/valid
 datasets/*.txt
 datasets/data.yaml
+
 # some training process
 runs/detect/train
 runs/detect/train2
+runs/detect/train3
 runs/detect/val
