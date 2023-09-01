@@ -24,9 +24,9 @@ while(cap.isOpened()):
     for result in preds:
         boxes = result.boxes
         names = result.names
-    print(names)
+    # print(names)
 
-    # if "tip" in names.values() and "base" in names.values():
+   
     if len(boxes) > 1: # show prediction when both detection of base and tip occurs
         # get coordinate x,y
         xywh = boxes.xywh.cpu().detach().numpy()
