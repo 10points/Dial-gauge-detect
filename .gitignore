@@ -160,10 +160,12 @@ cython_debug/
 #.idea/
 
 # dataset files
-*.MOV
-*.mov
-dataset
-
+IMG_7127.MOV
+datasets/test
+datasets/train
+datasets/valid
+datasets/*.txt
+datasets/data.yaml
 # some training process
 runs/detect/train
 runs/detect/train2
