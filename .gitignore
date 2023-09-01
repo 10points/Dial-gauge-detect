@@ -172,3 +172,4 @@ runs/detect/train
 runs/detect/train2
 runs/detect/train3
 runs/detect/val
+research.ipynb
